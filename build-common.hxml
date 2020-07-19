@@ -1,0 +1,4 @@
+-p src
+-p Lib1
+-p Lib2
+--main Main
